@@ -1,1 +1,1 @@
-<h1>Soluções do beecrowd / Uri Judge.</h1>
+<h1><em>Soluções do beecrowd / Uri Judge.<em></h1>
